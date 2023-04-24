@@ -79,23 +79,10 @@
 		color: var(--secondary-text-color);
 	}
 
-	.current.mobile-link::after {
-		content: "";
-		position: absolute;
-		left: 0;
-		right: 0;
-		display: block;
-		width: 100%;
-		height: 4px;
-		border-radius: 2px;
-		color: var(--accent-color);
-		background-color: var(--logo-color);
-		transition: background-color var(--function-trasition);
-	}
-
 	.current.mobile-link {
 		color: var(--accent-color);
 	}
+
 
 	.mobile-link-contacts {
 		font-weight: 700;

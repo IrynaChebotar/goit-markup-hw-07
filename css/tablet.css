@@ -23,6 +23,12 @@
 		}
 	}
 
+	.contacts {
+		font-size: 12px;
+		line-height: 1.16;
+		letter-spacing: 0.04em;
+	}
+
 	.hero {
 		width: 768px;
 		background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images-tablet/tablet-bg.jpg);
@@ -84,8 +90,17 @@
 		margin-left: 108px;
 	}
 
+	.footer-logo {
+		display: flex;
+		align-items: start;
+	}
+
 	.footer-logo-description {
 		margin-right: 24px;
+	}
+
+	.footer-media-title {
+		text-align: start;
 	}
 
 	.footer-modal-form {
@@ -104,5 +119,6 @@
 
 	.footer-form-email {
 		width: 264px;
+        margin-right: 24px;
 	}
 }
