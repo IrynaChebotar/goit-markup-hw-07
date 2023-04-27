@@ -483,8 +483,6 @@ button {
 }
 
 .customers-list-icon {
-	width: 64px;
-	height: 64px;
 	fill: #8e8f99;
 	transition: fill var(--function-trasition);
 }

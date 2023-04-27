@@ -1,6 +1,6 @@
 @media screen and (min-width: 428px) {
 	.hero {
-		width: 428px;
+		width: 100%;
 	}
 
 	.hero-title {
@@ -45,6 +45,7 @@
 		margin-left: 0;
 		position: relative;
 		padding-left: 40px;
+        padding-right: 40px;
 		padding-top: 80px;
 		padding-bottom: 40px;
 	}
