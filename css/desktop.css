@@ -124,4 +124,16 @@
 		margin-right: 0;
 		margin-left: 0;
 	}
+
+    /*============================== PORTFOLIO ===============================*/
+
+.portfolio {
+	padding-top: 100px;
+	padding-bottom: 120px;
+}
+
+.btn-section {
+    margin-bottom: 72px;
+}
+
 }

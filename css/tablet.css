@@ -122,4 +122,18 @@
 		width: 264px;
         margin-right: 24px;
 	}
+
+    /*============================== PORTFOLIO ===============================*/
+
+    .portfolio {
+        padding-top: 64px;
+        padding-bottom: 96px;
+    }
+
+    .btn-section {
+        flex-wrap: nowrap;
+        justify-content: center;
+        margin-bottom: 64px;
+    }
+
 }
